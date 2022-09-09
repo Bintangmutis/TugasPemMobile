@@ -13,6 +13,7 @@ class MyApp extends StatelessWidget {
         body: Container(
           alignment: Alignment.center,
           child: Column(
+            mainAxisAlignment: MainAxisAlignment.center,
             children: [
               const SizedBox(
                 height: 120,
